@@ -1,0 +1,23 @@
+# Esto es un comentario
+
+# Es una lista de elementos a ignorar
+
+# ignorar un archivo
+
+.DS_Store
+
+nose.json
+
+# ignorar un grupo de archivos
+
+*.jpg
+
+*.php
+
+# ignorar un archivo dentro de una carpeta
+nombrecarpeta/nombrearchivo
+
+# ignorar carpeta
+nombrecarpeta/
+
+
