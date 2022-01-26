@@ -10,7 +10,7 @@ nose.json
 
 # ignorar un grupo de archivos
 
-*.jpg
+*.extension
 
 *.php
 
